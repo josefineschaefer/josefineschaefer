@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Josefine ✨
+
+pronouns: she/her
+
+I'm a Developer Relations Engineer at [Storyblok](https://www.storyblok.com/) & a [Girl Code Ambassador](https://www.girl-code.co.uk/). I'm passionate about all things Web Accessibility, Community & Writing (Code) 🎉  
+
+You can also find me on Twitter [@JsfnSchfr](https://twitter.com/JsfnSchfr)
 
 <!--
 **josefineschaefer/josefineschaefer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
