@@ -2,7 +2,7 @@
 
 _[she/her]_
 
-I'm an Accessibility Engineer at [Storyblok](https://www.storyblok.com/), [Women Tech Makers](https://developers.google.com/womentechmakers) &  [Girl Code](https://www.girl-code.co.uk/) Ambassador and [Google Developer Expert](https://developers.google.com/community/experts) for Web Technologies. I'm passionate about all things Web Accessibility, Community & Writing (Code) 🎉  
+I'm an Accessibility Engineer at [Storyblok](https://www.storyblok.com/), [Women Tech Makers](https://developers.google.com/womentechmakers) &  [Girl Code](https://www.girl-code.co.uk/) Ambassador and [Google Developer Expert](https://developers.google.com/community/experts) for Web Technologies. I'm passionate about all things Web Accessibility, Community & [Writing](https://dev.to/josefine) (Code) 🎉  
 
 You can also find me on Twitter [@JsfnSchfr](https://twitter.com/JsfnSchfr)
 
