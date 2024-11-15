@@ -12,7 +12,8 @@ You can also find me on X [@JsfnSchfr](https://twitter.com/JsfnSchfr) and Linked
 ![Josefines's GitHub stats](https://github-readme-stats.vercel.app/api?username=josefineschaefer)
 
 # My GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=josefineschaefer&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-one-ebon.vercel.app?user=josefineschaefer&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
 
 # My top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josefineschaefer)](https://github.com/schabibi1/github-readme-stats)
