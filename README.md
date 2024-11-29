@@ -4,7 +4,7 @@ _[she/her]_
 
 I'm an Accessibility Engineer at [Storyblok](https://www.storyblok.com/), [Women Tech Makers](https://developers.google.com/womentechmakers) &  [Girl Code](https://www.girl-code.co.uk/) Ambassador and [Google Developer Expert](https://developers.google.com/community/experts) for Web Technologies. I'm passionate about all things Web Accessibility, Community & [Writing](https://dev.to/josefine) (Code) 🎉  
 
-You can also find me on X [@JsfnSchfr](https://twitter.com/JsfnSchfr) and LinkedIn. 
+You can also find me on X as [@JsfnSchfr](https://twitter.com/JsfnSchfr) and on [LinkedIn](https://www.linkedin.com/in/j-schaefer/). 
 
 [![@josefineschaefer Astro contributions](https://astro.badg.es/v2/contributor/josefineschaefer.svg)](https://astro.badg.es/contributor/josefineschaefer/)
 
